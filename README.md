@@ -24,4 +24,4 @@ Map: Not provided, but it has been tested on all edge cases (1x1, 1x8, 8x1, 7x7,
 ## Assignment1Part4 - Chessboard
 Task: Karel must create a “chessboard” using beepers in a rectangular empty world.
 Map: Not provided, but it has been tested on all edge cases (1x1, 1x8, 8x1, 7x7, 8x8)
-![Assignment1Part3](img/Assignment1Part3.PNG)
+![Assignment1Part4](img/Assignment1Part4.PNG)
